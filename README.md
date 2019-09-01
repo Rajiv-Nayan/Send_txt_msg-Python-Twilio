@@ -21,7 +21,7 @@
 
 #### 8. Open your terminal or Command Prompt(Run as Administrator) and type `pip install twilio`
 
-#### 9. On Your folder go to Address Bar and type **powershell**.
+#### 9. On Your Twilio folder go to Address Bar and type **powershell**.
 Then type in the following command:
 ```
 python send_sms.py
