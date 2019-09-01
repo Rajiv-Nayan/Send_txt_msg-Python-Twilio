@@ -17,7 +17,7 @@
 
 #### 6. Open **IDLE** and make a new file as `my_sms.py` and paste the given code
 
-#### 7. Move both files on Twilio folder
+#### 7. Move both files in Twilio folder
 
 #### 8. Open your terminal or Command Prompt(Run as Administrator) and type `pip install twilio`
 
